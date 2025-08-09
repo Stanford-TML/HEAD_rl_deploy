@@ -1,0 +1,11 @@
+**/__pycache__/
+ckpt*
+exp_*/
+*.out
+data_converted/
+navi_data/
+camera_trajs/
+camera_recordings/
+corl_table2_npz/
+corl_table2_npz_old/
+corl_table2_npz_v0/
