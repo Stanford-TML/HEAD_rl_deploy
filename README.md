@@ -52,8 +52,8 @@ python target_server/reaching_server.py
 ```
 
 ## Contribution
-1. (Sirui Chen)[https://ericcsr.github.io] and (Zi-Ang Cao)(https://zi-ang-cao.github.io/) develop this sim2sim and sim2real deployment code repo
-2. (Yanjie Ze)[yanjieze.com] Provide useful suggestions for building infra and sim2sim testing
+1. [Sirui Chen](https://ericcsr.github.io) and [Zi-Ang Cao](https://zi-ang-cao.github.io/) develop this sim2sim and sim2real deployment code repo
+2. [Yanjie Ze](yanjieze.com) Provide useful suggestions for building infra and sim2sim testing
 
 ## Citation
 ```
